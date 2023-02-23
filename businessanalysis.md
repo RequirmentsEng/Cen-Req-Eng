@@ -1,7 +1,7 @@
 # Business Analysis.md
-Itroduction Business purpose Business scope Overview Definitions Major stakeholders References Business management requirements Business environment Mission, goals, and objectives Business model Information environment Business operational requirements Business processes Business operational policies and rules Business operational constraints Business operational modes Business operational quality Business structure
+Introduction Business purpose Business scope Overview Definitions Major stakeholders References Business management requirements Business environment Mission, goals, and objectives Business model Information environment Business operational requirements Business processes Business operational policies and rules Business operational constraints Business operational modes Business operational quality Business structure
 
-## This is an artifact
+## 6.2.3.4-5
 #5. Preliminary operational concept of proposed system
   ##5.1 Preliminary operational concept - Describe the proposed system in a high-level manner, indicating the operational         features that are to be provided without specifying design details. The following information should be included:
   ###a) operational policies and constraints;
